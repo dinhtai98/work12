@@ -3,6 +3,8 @@
 A new Flutter application.
 
 ## Getting Started
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/W1-QYtTy-ls/0.jpg)](https://www.youtube.com/watch?v=W1-QYtTy-ls)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W1-QYtTy-ls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This project is a starting point for a Flutter application.
